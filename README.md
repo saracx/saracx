@@ -1,4 +1,4 @@
-Hi, I’m Sara. I am a  media &  consultant in Berlin, Germany, and on my way of becoming a web developer.
+Hi, I’m Sara. I am a  media &  consultant in Berlin, Germany, and on my way to becoming a web developer.
 
 I am currently learning Fullstack Development at SPICED Academy because I am interested in how the web shapes culture through technology and design. In a previous life, I was a performance marketing specialist, cultural science student and writer.
 
