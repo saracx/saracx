@@ -1,11 +1,11 @@
-Hi, I’m Sara. I am a  media &  consultant in Berlin, Germany, and on my way to becoming a web developer.
+Hi, I’m Sara. I am a digital media consultant with experience in performance and creative marketing, including Influencer Marketing, Social Media Marketing & Brand Communication, as well as Content Strategy with high SEO value. Based in Berlin.
 
-I am currently learning Fullstack Development at SPICED Academy because I am interested in how the web shapes culture through technology and design. In a previous life, I was a performance marketing specialist, cultural science student and writer.
+➡️ Currently interested in the social effects of tech products, and how the web's infrastructure and architecture is shaping culture and human interaction. Experience in Fullstack Development (JS, Node, React, HTML/CSS, Postgres, Wordpress, PHP). 
+
+In a past life, content creator, photographer, SEO copywriter and freelance journalist writing about web culture & pop culture (commonly known as 'memes'). 
 
 ⚡ My simple pleasures are **money, power, and success**.
-I identify as hungry.
-
-
+I identify as hungry. 
 
 
 <!--
