@@ -4,9 +4,6 @@ Hi, I’m Sara. I am a digital media consultant with experience in performance a
 
 In a past life, content creator, photographer, SEO copywriter and freelance journalist writing about web culture & pop culture (commonly known as 'memes'). 
 
-⚡ My simple pleasures are **money, power, and success**.
-I identify as hungry. 
-
 
 <!--
 **saracx/saracx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
