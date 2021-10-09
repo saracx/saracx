@@ -1,9 +1,14 @@
-Hi, I’m Sara. I am a digital media consultant with experience in performance and creative marketing, including Influencer Marketing, Social Media Marketing & Brand Communication, as well as Content Strategy with high SEO value. Based in Berlin.
+Marketing & brand strategy consultant with experience in performance and creative marketing (relationships, influencer, social media, performance, growth hacking, emails, content, SEO/SEA, conversion rate optimization, and a little bit of UX/CX)
 
-➡️ Currently interested in the social effects of tech products, and how the web's infrastructure and architecture is shaping culture and human interaction. Experience in Fullstack Development (JS, Node, React, HTML/CSS, Postgres, Wordpress, PHP). 
+➡ Currently interested in the social effects of tech products, and how the web's infrastructure and architecture is shaping culture and human interaction. Experience in Fullstack Development (JS, Node, React, HTML/CSS, Postgres, Wordpress, PHP). 
 
-In a past life, content creator, photographer, SEO copywriter and freelance journalist writing about web culture & pop culture (commonly known as 'memes'). 
+In the past: content creator, photographer, copywriter, DJ and freelance journalist. 
 
+----
+
+About me: 🌈 Runner, Movie & TV buff, App hoarder
+Age: 33
+The key to my heart is Versace
 
 <!--
 **saracx/saracx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
