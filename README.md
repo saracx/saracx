@@ -4,11 +4,9 @@ Marketing & brand strategy consultant with experience in performance and creativ
 
 In the past: content creator, photographer, copywriter, DJ and freelance journalist. 
 
-----
-
-About me: 🌈 Runner, Movie & TV buff, App hoarder
-Age: 33
-The key to my heart is Versace
+*About me*: 
+- 🌈 Runner, Movie & TV buff, App hoarder
+- The key to my heart is Versace
 
 <!--
 **saracx/saracx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
