@@ -1,6 +1,6 @@
 Marketing & brand strategy consultant with an interest for design and frontend development
-Co-founder www.peopleperson.xyz (agency for xyz)
-Writer www.mediadiet.club
+- Co-founder www.peopleperson.xyz (agency for xyz)
+- Writer www.mediadiet.club
 
 In the past: content creator, photographer, copywriter, DJ and freelance journalist. 
 
