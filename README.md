@@ -1,12 +1,11 @@
-Marketing & brand strategy consultant with experience in performance and creative marketing (relationships, influencer, social media, performance, growth hacking, emails, content, SEO/SEA, conversion rate optimization, and a little bit of UX/CX)
-
-➡ Currently interested in the social effects of tech products, and how the web's infrastructure and architecture is shaping culture and human interaction. Experience in Fullstack Development (JS, Node, React, HTML/CSS, Postgres, Wordpress, PHP). 
+Marketing & brand strategy consultant with an interest for design and frontend development
+Co-founder www.peopleperson.xyz (agency for xyz)
+Writer www.mediadiet.club
 
 In the past: content creator, photographer, copywriter, DJ and freelance journalist. 
 
 *About me*: 
 - 🌈 Runner, Movie & TV buff, App hoarder
-- The key to my heart is Versace
 
 <!--
 **saracx/saracx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
